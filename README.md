@@ -1,2 +1,2 @@
 # Data-Analytics-Project
-This is my data analytics project
+In this project, I worked with a group to follow the data science pipeline. We wanted to explore the effectiveness of the Zero Trust framework, a widely discussed approach within the cybersecurity industry. We documented each stage of the process through a slideshow presentation. Beginning with data wrangling of a cybersecurity threats dataset. This allowed us to compare cybercrime rates before and after the implementation of Zero Trust in order to assess its impact. We also examined cybercrime trends across the United States and analyzed variations across different industries. To conduct our exploratory data analysis and visualization, we used Microsoft Excel, which enabled us to clearly present our findings
